@@ -1,6 +1,9 @@
 # Modern Image Slider
 
 A sleek, responsive image slider (carousel) built with HTML, CSS, and JavaScript that provides a smooth and engaging user experience.
+## Live Link
+**Live Link**: [Live Demo](https://navileo.github.io/Image-Slider/)
+
 
 ## Features
 
